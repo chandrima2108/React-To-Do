@@ -7,5 +7,5 @@ Type in terminal-
  npm install
  npm run dev
 
- link for github-
+ link for github -
  
